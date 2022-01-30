@@ -1,0 +1,18 @@
+.cardBodies{
+    text-align: center;
+    /* margin: 25px; */
+    background-color: #d3dfef;
+    background-size: auto;
+}
+.IMAGE{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    align-self: center;
+    margin-top: -25px;
+    background-color: blue;
+    color: white;
+    border: 4px solid white;
+}

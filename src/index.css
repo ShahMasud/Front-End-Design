@@ -1,0 +1,101 @@
+.about-container{
+  margin-bottom: 100px;
+}
+
+.image{
+  height: 400px;
+}
+
+.active{
+  /* font-weight: bold; */
+  /* border-bottom: 2px solid #565387; */
+}
+
+/* home style  */
+.cardBody{
+  background-color: white;
+  transition-duration: 500ms;
+  /* transition-timing-function: ease-in-out; */
+  /* transform: scale(180deg); */
+  /* transform: scaleY(180deg); */
+  
+}
+.cardBody:hover{
+  background-color: lightblue;
+  cursor: pointer;
+  
+  transform: translate(10px, 10px)
+}
+.HomeBtn :hover{
+  cursor: pointer;
+  color: blue;
+
+}
+
+.bOX{
+  width: 400px;
+  height: 400px;
+  background-color: burlywood ;
+  transition-duration: 1000ms;
+  
+}
+.bOX:hover{
+  background-color: cadetblue;
+  
+}
+
+.progressBar{
+  margin-bottom: 100px;
+}
+.twitter{
+  width: 80px;
+  height: 80px;
+  padding: 16px;
+  transition-duration: 1s;
+}
+.twitter:hover{
+  cursor: pointer;
+  /* box-shadow: blue; */
+  transform: scale(2, 2);
+  transform: scale();
+  
+}
+.logos{
+  background-color: #f0f7f9;
+  padding: 16px;
+}
+
+/* services css  */
+.boxes:hover{
+  color: blue;
+  cursor: pointer;
+}
+.cardImage{
+  /* background-color: blueviolet; */
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  /* display: flex; */
+  /* padding: 100px; */
+  /* width: 50px; 
+  height: 60px; */
+  /* padding-left: 80px;
+  padding-right: 80px; */
+}
+
+
+
+
+/* .navbar-light .navbar-nav .active NavLink ::after {
+  border-bottom: 5px solid #5bc0eb;
+  bottom: -10px;
+  content: " ";
+  left: 0;
+  position: absolute;
+  right: 0;
+} */
+
+/* about style  */
+/* .image{
+  width: 650px;
+  height: 550px;
+} */
